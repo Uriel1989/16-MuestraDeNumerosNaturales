@@ -1,0 +1,5 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\16-MuestraDeNumerosNaturales\16-MuestraDeNumerosNaturales\bin\Debug\16-MuestraDeNumerosNaturales.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\16-MuestraDeNumerosNaturales\16-MuestraDeNumerosNaturales\bin\Debug\16-MuestraDeNumerosNaturales.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\16-MuestraDeNumerosNaturales\16-MuestraDeNumerosNaturales\obj\Debug\16-MuestraDeNumerosNaturales.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\16-MuestraDeNumerosNaturales\16-MuestraDeNumerosNaturales\obj\Debug\16-MuestraDeNumerosNaturales.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\16-MuestraDeNumerosNaturales\16-MuestraDeNumerosNaturales\obj\Debug\16-MuestraDeNumerosNaturales.pdb
